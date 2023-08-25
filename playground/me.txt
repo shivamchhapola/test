@@ -1,5 +1,0 @@
-{{#user}}
-Name: Shivam Chhapola
-Skills: HTML, CSS, JS, TS, React.js, Next.js, Node.js, MongoDB, Express.js, TailwindCSS
-Email: shivam.chhapola.1920@gmail.com
-{{/user}}
